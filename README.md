@@ -21,3 +21,11 @@ zellij plugin -- https://github.com/imsnif/weather-pal/releases/latest/download/
 1. Download the `weather-pal.wasm` file from the latest release
 2. Place it in `~/.config/zellij/plugins`
 3. From inside Zellij, run `zellij plugin [--floating] [--in-place] -- file:~/zellij/plugins/weather-pal.wasm`
+
+## Configuration
+The location can also be configured manually through the `location=<location>` plugin configuration.
+
+eg.
+```
+zellij plugin --configuration location=vienna -- file:~/zellij/plugins/weather-pal.wasm
+```
