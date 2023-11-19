@@ -14,7 +14,7 @@ Weather-Pal *does not* geolocate the user according to their GPS/IP/Wi-Fi/Cell i
 From inside Zellij:
 
 ```
-zellij plugin -- https://github.com/imsnif/weather-pal/releases/latest/download/monocle.wasm
+zellij plugin -- https://github.com/imsnif/weather-pal/releases/latest/download/weather-pal.wasm
 ```
 
 ## Permanent Installation
