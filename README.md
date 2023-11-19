@@ -1,3 +1,6 @@
+![img-2023-11-19-080410](https://github.com/imsnif/weather-pal/assets/795598/52f2d2e5-b9b8-4cf2-ab5e-c2554db71741)
+
+
 ## About
 
 Weather-Pal is a [Zellij](https://github.com/zellij-org/zellij) plugin to show the weather for the current location
