@@ -1,0 +1,10 @@
+[package]
+name = "weather-pal"
+version = "0.1.0"
+authors = ["Aram Drevekenin <aram@poor.dev>"]
+edition = "2018"
+
+[dependencies]
+zellij-tile = "0.39.1"
+chrono = "0.4.31"
+json = "0.12.4"
