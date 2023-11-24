@@ -19,6 +19,9 @@ zellij plugin -- https://github.com/imsnif/weather-pal/releases/latest/download/
 
 ## Permanent Installation
 1. Download the `weather-pal.wasm` file from the latest release
+```
+curl -LO https://github.com/imsnif/weather-pal/releases/latest/download/weather-pal.wasm -o ~/.config/zellij/plugins
+```
 2. Place it in `~/.config/zellij/plugins`
 3. From inside Zellij, run `zellij plugin [--floating] [--in-place] -- file:~/zellij/plugins/weather-pal.wasm`
 
